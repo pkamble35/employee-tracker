@@ -1,5 +1,5 @@
 # Employee Tracker
-This is command line application which  generates Readme file based on users inputs.
+This is command line application for managing a company's employees using node, inquirer, and MySQL.
 ## Table of Contents 
 ==================================
 * [Installation](#Installation)
@@ -10,7 +10,7 @@ This is command line application which  generates Readme file based on users inp
 ## Installation
 Below command should be executed node index.js
 ## Usage
-Use this application to generate Readme.md file for your github project.
+Use this application to manage and track employees.
 ## Contribution
 To contribute to this project, please make sure you follow the guidelines in The Contributor Covenant as general guidelines.
 ## Test
