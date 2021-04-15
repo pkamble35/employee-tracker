@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Solution for managing a company's employees using node, inquirer, and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkamble35/employee-tracker.git"
+  },
+  "author": "Priyanka Kamble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkamble35/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/pkamble35/employee-tracker#readme",
+  "dependencies": {
+    "inquirer": "^6.5.2",
+    "mysql": "^2.18.1"
+  }
+}
